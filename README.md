@@ -35,4 +35,15 @@ between multiple users.
 ⁂ Host the website at 000webhost, github.io, <strong> Heroku App </strong>  or any
 other free hosting provider. Check in code in gitlab.
 
-<h3> Web App Link: https://alliance-bank-of-india.herokuapp.com </h3>
+## Technologies Used:
+>  ### Front-End:
+- HTML
+- CSS
+- Bootstrap
+- EJS
+> ### Back-End:
+-  NodeJS 
+-  ExpressJS
+-  MongoDB
+
+###<h3> Web App Link: https://alliance-bank-of-india.herokuapp.com </h3>
